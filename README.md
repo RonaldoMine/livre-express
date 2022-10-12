@@ -9,8 +9,8 @@ This project is a starting point for a Java application.
 You can view a simple screen shoot of result
 
 ## SPLASH SCREEN
-![SPLASH SCREEN Of App](https://github.com/RonaldoMine/livreespress/blob/master/splash_screen.png
+![SPLASH SCREEN Of App](https://github.com/RonaldoMine/livre-espress/blob/master/splash_screen.png
 
 
 ## APP SCREEN
-![SCREEN Of App](https://github.com/RonaldoMine/livreespress/blob/master/app.png)
+![SCREEN Of App](https://github.com/RonaldoMine/livre-espress/blob/master/app.png)
